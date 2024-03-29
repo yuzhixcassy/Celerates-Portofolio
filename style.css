@@ -3,6 +3,7 @@ body {
   /* color: goldenrod; */
   font-family: "Roboto", sans-serif;
   /* padding-top: 150px; */
+  min-height: 2000px;
 }
 
 .navbar {
@@ -51,4 +52,15 @@ body {
 
 .jumbotron {
   margin-top: 150px;
+  background-color: #c6ecbc;
+  padding: 2rem 1rem;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+#projects{
+  background-color: #c6ecbc;
 }
