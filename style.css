@@ -3,7 +3,7 @@ body {
   /* color: goldenrod; */
   font-family: "Roboto", sans-serif;
   /* padding-top: 150px; */
-  min-height: 2000px;
+  /* min-height: 3000px; */
 }
 
 .navbar {
@@ -12,6 +12,10 @@ body {
   margin: 20px;
   border-radius: 16px;
   padding: 0.5rem;
+}
+
+footer{
+  background-color: #009970;
 }
 
 /* .navbar-brand{
@@ -51,9 +55,10 @@ body {
 }
 
 .jumbotron {
-  margin-top: 150px;
+  margin-top:80px;
   background-color: #c6ecbc;
   padding: 2rem 1rem;
+  
 }
 
 img{
